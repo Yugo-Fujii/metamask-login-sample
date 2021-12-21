@@ -30,7 +30,7 @@ https://alis.to/fukurou/articles/azDdmrz5RZOA
 
 1. 必要ライブラリのインストール  
 
-metamask-login-sample直下で  
+metamask-login-sample-master直下で  
 
 ```
 cd packages/frontend
