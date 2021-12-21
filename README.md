@@ -57,7 +57,8 @@ PORT=3000
 次にnowとのリンクを行い、ローカルに立ち上げます。
 
 `now`  
-～必要項目入力～  
+～必要項目入力～
+全部エンターで良い
 `now dev`
 
 3. フロントエンドの立ち上げ
@@ -72,6 +73,7 @@ REACT_APP_BACKEND_URL="http://localhost:3000"
 ```
 
 4. 動作確認
+npm start
 
 MetaMaskがインストールされたブラウザで
 
