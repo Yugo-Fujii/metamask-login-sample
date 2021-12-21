@@ -11,8 +11,7 @@ https://github.com/amaurymartiny/login-with-metamask-demo
 https://www.toptal.com/ethereum/one-click-login-flows-a-metamask-tutorial
 
 シークエンス図を用いて日本語による解説記事を書きました。  
-
--準備中-
+https://hide.ac/articles/LPg897UUo
 
 
 ## 事前準備
